@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551862129095.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6C633AC1",
+    "lastKnownWriteTime" : 1551862447,
+    "last_content_update" : 1551862447535,
+    "path" : "~/GitHub/moonsRpractice/20190306.Rmd",
+    "project_path" : "20190306.Rmd",
+    "properties" : {
+        "cursorPosition" : "1,17",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
